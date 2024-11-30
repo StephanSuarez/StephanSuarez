@@ -1,25 +1,34 @@
-### Hi there 👋
-# Mi name is Stephan
+### Hi there 👋  
+# I'm Stephan  
 
-I'm a system engineer, I like to spend my time coding or speaking about sistems topics.
+I'm a System Engineer passionate about building scalable and efficient software solutions. I enjoy coding and solving real-world problems through technology.  
 
-## Feature Projects
-- [RealEstate](https://github.com/StephanSuarez/RealEstate): This is a project about real estate: "Reveal your property or find the one you like"
-- [Chat rooms microservices](https://github.com/StephanSuarez/chat-room-ms) This is a microservice built into Nest, it manages requests for users and rooms.
+- 🔭 **Currently working on**: A comprehensive SaaS project integrating e-commerce, chatbots, and advanced selling tools.  
+- 🌱 **Currently learning**: Best practices in microservices architecture, Docker, Kubernetes, and CI/CD pipelines for efficient deployments on AWS EC2.  
+- 🤔 **Looking for help with**: Mastering Docker and Kubernetes for deploying microservices and improving my CI/CD processes.  
+- 💬 **Ask me about**: Microservices with NestJS, backend development, or database design.  
+- 📫 **How to reach me**: [Email me](mailto:stph4211@gmail.com)  
+- ⚡ **Fun fact**: I prefer 🍻 beer over ☕ coffee. What about you?  
 
-## Skills
-- Golang
-- GCP
-- SQL
-- Mongo DB
-- Node.js
-- express
-- TypeScript
-- nest.js
-- Vue.js
+---
 
+## 🛠️ Skills  
+### Programming & Frameworks  
+- **Languages**: Go, TypeScript, JavaScript, SQL  
+- **Frameworks**: NestJS, Express, Vue.js, Angular, React
 
-Thank you for visiting my profile!
+### Databases  
+- MongoDB  
+- SQL  
+
+### Cloud & Tools  
+- Google Cloud Platform (GCP)  
+- AWS (currently learning EC2 deployments)  
+- Docker & Kubernetes (learning in progress)  
+
+---
+
+Thanks for visiting my profile! 🚀  
 
 <!--
 **StephanSuarez/StephanSuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
