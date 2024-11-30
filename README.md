@@ -7,7 +7,7 @@ I'm a System Engineer passionate about building scalable and efficient software 
 - 🌱 **Currently learning**: Best practices in microservices architecture, Docker, Kubernetes, and CI/CD pipelines for efficient deployments on AWS EC2.  
 - 🤔 **Looking for help with**: Mastering Docker and Kubernetes for deploying microservices and improving my CI/CD processes.  
 - 💬 **Ask me about**: Microservices with NestJS, backend development, or database design.  
-- 📫 **How to reach me**: [Email me](mailto:stph4211@gmail.com)  
+- 📫 **How to reach me**: [stph4211@gmail.com](mailto:stph4211@gmail.com)  
 - ⚡ **Fun fact**: I prefer 🍻 beer over ☕ coffee. What about you?  
 
 ---
