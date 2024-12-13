@@ -8,7 +8,7 @@ I'm a System Engineer passionate about building scalable and efficient software 
 - 🤔 **Looking for help with**: Mastering Docker and Kubernetes for deploying microservices and improving my CI/CD processes.  
 - 💬 **Ask me about**: Microservices with NestJS, backend development, or database design.  
 - 📫 **How to reach me**: [stph4211@gmail.com](mailto:stph4211@gmail.com)  
-- ⚡ **Fun fact**: I prefer 🍻 beer over ☕ coffee. What about you?  
+- ⚡ **Fun fact**: Of course I like beer 🍻 and coffe ☕ coffee. What about you?  
 
 ---
 
